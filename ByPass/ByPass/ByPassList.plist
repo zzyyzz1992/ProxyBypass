@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<string>127.0.0.1</string>
+	<string>10.10.42.3</string>
+	<string>*.bjtu.edu.cn</string>
+	<string>*.edu.cn</string>
+	<string>192.168.*</string>
+</array>
+</plist>
